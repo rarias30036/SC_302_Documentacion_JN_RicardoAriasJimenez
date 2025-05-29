@@ -1,0 +1,2 @@
+# SC_302_Documentacion_JN_RicardoAriasJimenez
+Repositorio para propositos universitarios
